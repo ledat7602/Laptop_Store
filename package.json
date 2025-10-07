@@ -1,0 +1,12 @@
+{
+  "name": "populate-images",
+  "version": "1.0.0",
+  "description": "Script to populate product images in database",
+  "main": "populate_images.js",
+  "scripts": {
+    "start": "node populate_images.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.9.7"
+  }
+}
